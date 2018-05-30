@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://media1.giphy.com/media/OK5LK5zLFfdm/giphy.gif");
+
+    background-size: cover;
+}
+
+p {
+    color: white;
+}
+
+.form-group {
+    color: white;
+}
